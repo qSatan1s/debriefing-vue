@@ -4,6 +4,7 @@
 ```
 yarn install
 ```
+### ADD firebase config
 
 ### Compiles and hot-reloads for development
 ```
